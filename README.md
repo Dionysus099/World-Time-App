@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+## To build the apk file
+
+Open Flutter Terminal and type:
+flutter build apk
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
