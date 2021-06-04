@@ -3,10 +3,11 @@
 A new Flutter project.
 <br/>
 
-## To build the apk file
+## To build the apk/ios file
 
 Open Flutter Terminal and type command:<br/>
 flutter build apk
+flutter build ios
 <br/>
 
 ## Getting Started
