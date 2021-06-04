@@ -6,7 +6,7 @@ A new Flutter project.
 ## To build the apk/ios file
 
 Open Flutter Terminal and type command:<br/>
-flutter build apk
+flutter build apk <br/>
 flutter build ios
 <br/>
 
