@@ -5,7 +5,7 @@ A new Flutter project.
 
 ## To build the apk file
 
-Open Flutter Terminal and type:
+Open Flutter Terminal and type:<br/>
 flutter build apk
 
 
